@@ -23,7 +23,7 @@ After selecting a category, the app displays a random statement or teaser. The p
   Simple and intuitive console menu lets the user interact with the app in a guided way.
 
 -  **Delayed Answer Reveal**  
-  Encourages engagement by showing only the teaser first — and revealing the answer upon request.
+  Encourages engagement by showing only the teaser first and revealing the answer upon request.
 
 ---
 
